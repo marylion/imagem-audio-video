@@ -1,3 +1,5 @@
-# imagem-audio-video
+# Imagem, Áudio e Vídeo
 Projetinho básico para aperfeiçoar minhas habilidades.
-<img src="./cartoon.gif">
+
+<img src="img/cartoon.gif">
+
