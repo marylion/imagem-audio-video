@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -17,6 +18,9 @@ section {
     background-size: cover;     /*cobrir todo o espaço da nossa section*/
 
     background-attachment: fixed;
+
+    margin-left: auto;
+    margin-right: auto;   
 }
 
 section:nth-of-type(1) {
@@ -70,6 +74,27 @@ section:nth-of-type(8) {
     background-color: rgb(233, 63, 91);
     border: solid rgb(224, 105, 125) 2px;
     border-radius: 20px;
-
-    
+  
 }
+
+.video {
+    width: 100%;
+    justify-content: left;
+}
+
+.textosCentralizados {
+    width: 700px;
+    height: 300px;
+
+    background-color: red;
+}
+
+p {
+    padding: 9px;
+
+    font-size: 23px;
+    font-family: 'Dancing Script', cursive;
+    color:rgb(58, 19, 94)
+}
+
+
